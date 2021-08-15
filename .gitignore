@@ -2,3 +2,4 @@
 .vscode/settings.json
 server.cfg
 push.bat
+cache
